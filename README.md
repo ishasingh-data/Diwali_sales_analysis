@@ -19,34 +19,34 @@ Matplotlib – Data visualization
 
 ## 🔍 Key Steps in Analysis
 1. Data Loading
-  Imported dataset using Pandas
-  Inspected structure and data types
+  - Imported dataset using Pandas
+  - Inspected structure and data types
 2. Data Cleaning
-  Removed null values
-  Dropped irrelevant columns (unnamed1)
-  Corrected data types
-  Handled duplicates
+ - Removed null values
+ - Dropped irrelevant columns (unnamed1)
+ -  Corrected data types
+ -  Handled duplicates
 3. Exploratory Data Analysis (EDA)
-  Gender-wise spending analysis
-  Age group vs purchasing power
-  State-wise and zone-wise sales distribution
-  Occupation-based buying behavior
-  Product category performance
+  - Gender-wise spending analysis
+  - Age group vs purchasing power
+  - State-wise and zone-wise sales distribution
+  - Product category performance
+  - Occupation-based buying behavior
 4. Data Visualization
-  Bar charts for category comparisons
-  Histograms for distribution analysis
+  - Bar charts for category comparisons
+  - Histograms for distribution analysis
 
 ## 📊 Key Insights
-Married women (age 26–35) are the highest spenders during Diwali
-Top-performing states/zones contribute significantly to total revenue
-Certain product categories dominate sales
-Occupation plays a major role in purchasing power
-Repeat customers contribute to higher revenue
+- Married women (age 26–35) are the highest spenders during Diwali
+- Top-performing states/zones contribute significantly to total revenue
+- Certain product categories dominate sales
+- Occupation plays a major role in purchasing power
+- Repeat customers contribute to higher revenue
 
 ## 📈 Sample Visualizations
-Sales by Gender
-Sales by Age Group
-Top States by Revenue
-Product Category Performance
-Pie charts for proportional insights
-Heatmaps (optional) for correlation analysis
+- Sales by Gender
+- Sales by Age Group
+- Top States by Revenue
+- Product Category Performance
+- Pie charts for proportional insights
+
